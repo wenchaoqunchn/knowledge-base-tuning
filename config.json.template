@@ -1,0 +1,15 @@
+{
+  "url": "http://localhost:3000/",
+  "dataset": {
+    "id": "your-dataset-id-here",
+    "key": "your-dataset-key-here"
+  },
+  "app": {
+    "id": "your-app-id-here",
+    "key": "your-app-key-here"
+  },
+  "prompts": {
+    "start": "请你作为专业的财务制度分析师，对以下表格内容进行结构化分析和整理。请提取关键信息，并按照逻辑顺序重新组织内容，使其更加清晰易懂。表格内容如下：\n",
+    "continue": "请继续处理剩余内容，保持同样的分析标准和格式。"
+  }
+}
